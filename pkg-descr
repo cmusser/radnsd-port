@@ -1,0 +1,5 @@
+radnsd is a daemon that extracts DNS configuration from IPv6 router
+advertisments and configures the system's resolver. It aims to conform
+to RFC6106.
+
+WWW: https://github.com/cmusser/radnsd
