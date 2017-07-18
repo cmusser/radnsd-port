@@ -16,7 +16,7 @@ This is the BSD Ports system configuration project for radnsd.
    sudo make dports-create-shallow
    ```
 
-2. Bump the PORTVRSION in the Makefile to match the Git tag of the new version and
+2. Bump the PORTVERSION in the Makefile to match the Git tag of the new version and
    run the following:
 
     `sudo make makesum`
